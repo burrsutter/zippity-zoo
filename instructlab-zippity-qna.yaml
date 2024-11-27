@@ -129,17 +129,17 @@ seed_examples:
       - question: |
           Who is Zippity Zoo?
         answer: |
-          Zippity Zoo is a chap who lives in the town of Doodle-Dee-Doo. He is known for his cleverness 
-          and kindness, and he has a unique mind that allows him to invent things like machines that make 
-          rainbows and lanterns of light. Zippity Zoo has a big dream to build the Zippity-Whizzer, a 
-          contraption that turns rain into fizzers, which are bubbly, sparkly, and glowing bubbles that 
-          taste like the sun mixed with glitter and fizz. However, Zippity Zoo's house is too small for 
+          Zippity Zoo is a chap who lives in the town of Doodle-Dee-Doo. He is known for his cleverness
+          and kindness, and he has a unique mind that allows him to invent things like machines that make
+          rainbows and lanterns of light. Zippity Zoo has a big dream to build the Zippity-Whizzer, a
+          contraption that turns rain into fizzers, which are bubbly, sparkly, and glowing bubbles that
+          taste like the sun mixed with glitter and fizz. However, Zippity Zoo's house is too small for
           his hat and his inventions, so he decides to build a new house with more space.
       - question: |
           What kind of house does Zippity Zoo live in?
         answer: |
-          Zippity Zoo lived in a house that was twisty and tall, with windows too tiny and doors way too 
-          small. The house was filled with old junk, including springs in the sink and gears in his bunk. 
+          Zippity Zoo lived in a house that was twisty and tall, with windows too tiny and doors way too
+          small. The house was filled with old junk, including springs in the sink and gears in his bunk.
           It was not spacious enough for Zippity's hat, let alone his grand invention, the Zippity-Whizzer.
       - question: |
           What invention is he known for?
@@ -148,7 +148,7 @@ seed_examples:
       - question: |
           What is fizzer?
         answer: |
-          A fizzer is a bubbly, sparkly, and glowing substance that tastes like the sun mixed with glitter 
+          A fizzer is a bubbly, sparkly, and glowing substance that tastes like the sun mixed with glitter
           and fizz. It's a creation of Zippity Zoo's invention, the Zippity-Whizzer.
       - question: |
           What color is Zippity-Tower?
@@ -157,7 +157,7 @@ seed_examples:
       - question: |
           Who is Gertrude McSnail?
         answer: |
-          Gertrude McSnail is a friend of Zippity Zoo who lives in Doodle-Dee-Doo. She is a wise and 
+          Gertrude McSnail is a friend of Zippity Zoo who lives in Doodle-Dee-Doo. She is a wise and
           supportive character who offers Zippity advice on how to build his Zippity-Whizzer. She suggests
           that he build his house up tall instead of out wide, which helps him overcome the space issue in
           his current home.
@@ -165,8 +165,8 @@ seed_examples:
           What is Doodle-Dee-Doo known for?
         answer: |
           The town of Doodle-Dee-Doo is known for being the home of Zippity Zoo, a clever and kind inventor
-          who lives in a house filled with gadgets and machines. The town is also famous for the 
-          Zippity-Tower, a tall and sparkly structure built by Zippity Zoo and Gertrude McSnail, 
+          who lives in a house filled with gadgets and machines. The town is also famous for the
+          Zippity-Tower, a tall and sparkly structure built by Zippity Zoo and Gertrude McSnail,
           which houses the Zippity-Whizzer, a machine that creates Fizzers, bubbly and sparkly drinks.
       - question: |
           What is the main conflict?
