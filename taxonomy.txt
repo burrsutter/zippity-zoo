@@ -1,0 +1,123 @@
+/home/instruct/.local/share/instructlab/taxonomy
+├── CODE_OF_CONDUCT.md
+├── compositional_skills
+│   ├── arts
+│   ├── engineering
+│   ├── geography
+│   ├── grounded
+│   │   ├── arts
+│   │   ├── engineering
+│   │   ├── geography
+│   │   ├── history
+│   │   ├── linguistics
+│   │   │   ├── inclusion
+│   │   │   │   ├── attribution.txt
+│   │   │   │   └── qna.yaml
+│   │   │   └── writing
+│   │   │       └── rewriting
+│   │   │           ├── attribution.txt
+│   │   │           └── qna.yaml
+│   │   ├── philosophy
+│   │   ├── religion
+│   │   ├── science
+│   │   └── technology
+│   ├── history
+│   ├── linguistics
+│   │   └── synonyms
+│   │       ├── attribution.txt
+│   │       └── qna.yaml
+│   ├── miscellaneous_unknown
+│   ├── philosophy
+│   ├── religion
+│   ├── science
+│   └── technology
+├── CONTRIBUTING.md
+├── CONTRIBUTOR_ROLES.md
+├── docs
+│   ├── assets
+│   │   ├── add_skill_branch.png
+│   │   ├── backend.png
+│   │   ├── comp_skill.png
+│   │   ├── linguistics.png
+│   │   ├── new_file.png
+│   │   ├── qna_ex.png
+│   │   ├── review-process.png
+│   │   ├── simile_folder.png
+│   │   ├── tax_labels.png
+│   │   └── triage_schedule.png
+│   ├── contributing_via_GH_UI.md
+│   ├── knowledge-contribution-guide.md
+│   ├── KNOWLEDGE_GUIDE.md
+│   ├── README.md
+│   ├── SKILLS_GUIDE.md
+│   ├── taxonomy_diagram.md
+│   ├── taxonomy_diagram.png
+│   ├── template_qna.yaml
+│   └── triaging
+│       ├── insights
+│       │   ├── images
+│       │   │   ├── gh-bot.png
+│       │   │   ├── gh-message_analysis-in-progress.png
+│       │   │   ├── gh-message_no-violation.png
+│       │   │   ├── gh-message_potential-violation.png
+│       │   │   ├── gh-workflow.png
+│       │   │   ├── InstructLab-Insights-report.png
+│       │   │   └── login-screen.png
+│       │   └── taxonomy-insights-documentation.md
+│       ├── safe-responses.md
+│       └── triaging-contributions.md
+├── foundational_skills
+│   └── reasoning
+│       ├── common_sense_reasoning
+│       │   └── qna.yaml
+│       ├── linguistics_reasoning
+│       │   ├── logical_sequence_of_words
+│       │   │   └── qna.yaml
+│       │   ├── object_identification
+│       │   │   └── qna.yaml
+│       │   └── odd_one_out
+│       │       └── qna.yaml
+│       ├── logical_reasoning
+│       │   ├── causal
+│       │   │   └── qna.yaml
+│       │   ├── general
+│       │   │   └── qna.yaml
+│       │   └── tabular
+│       │       └── qna.yaml
+│       ├── mathematical_reasoning
+│       │   └── qna.yaml
+│       ├── temporal_reasoning
+│       │   └── qna.yaml
+│       ├── theory_of_mind
+│       │   └── qna.yaml
+│       └── unconventional_reasoning
+│           └── lower_score_wins
+│               └── qna.yaml
+├── governance.md
+├── knowledge
+│   ├── arts
+│   ├── deloreon
+│   │   └── qna.yaml
+│   ├── engineering
+│   ├── geography
+│   ├── history
+│   ├── linguistics
+│   ├── mathematics
+│   ├── miscellaneous_unknown
+│   ├── philosophy
+│   ├── religion
+│   ├── science
+│   │   └── animals
+│   │       └── birds
+│   │           └── black_capped_chickadee
+│   │               ├── attribution.txt
+│   │               └── qna.yaml
+│   └── technology
+├── LICENSE
+├── MAINTAINERS.md
+├── Makefile
+├── README.md
+├── scripts
+│   ├── check-yaml.py
+│   └── requirements.txt
+└── SECURITY.md
